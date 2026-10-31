@@ -1,12 +1,13 @@
 <div align="center">
 
+<img src="assets/mahan-terminal.svg" width="1000" alt="Mahan Dehghani — AI Software Engineer, CS at KNTU; personalized animated terminal">
+
 # Hi, I'm Mahan Dehghani 👋
 
 ### Computer Science undergraduate · Junior AI Software Engineer
 
 **Building at the intersection of retrieval, agents, and large language models.**
 
-<img src="https://raw.githubusercontent.com/AmeyThakur/AmeyThakur/master/assets/Hi.gif" width="40" alt="Animated waving hand">
 
 [![GitHub](https://img.shields.io/badge/GitHub-mahandhgh-181717?style=for-the-badge&logo=github)](https://github.com/mahandhgh)
 
@@ -29,19 +30,9 @@ My research interests lie at the intersection of **bioinformatics and LLM interp
 - **LLM-powered products:** conversational assistants, knowledge search, and APIs that connect models to application data and tools.
 - **Production foundations:** asynchronous APIs, input validation, automated tests, containerized deployment, evaluation, tracing, and attention to latency and cost.
 
-```mermaid
-flowchart LR
-    D[Documents & data] --> R[Retrieve & rerank]
-    Q[User question] --> A[Agent orchestration]
-    R --> A
-    A <--> T[Tools & APIs]
-    A --> O[Grounded response]
-    O --> E[Evaluate & observe]
-```
+## My engineering toolkit
 
-## Technology landscape
-
-Tools and technologies relevant to my focus as a junior AI software engineer. This is a map of the ecosystem I work in and continue to explore, rather than a claim of equal expertise in every tool.
+My stack and the ecosystem I continue to explore — from retrieval experiments to deployed applications.
 
 ### LLM applications & agents
 
@@ -66,6 +57,8 @@ Tools and technologies relevant to my focus as a junior AI software engineer. Th
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Serving, evaluation & delivery
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
@@ -93,6 +86,8 @@ Beyond frameworks, I focus on **prompt design, tokenization, embeddings, context
 
 ## Research interests 🧬
 
+<img src="assets/research-signal.svg" width="1000" alt="Custom animated DNA motif: bioinformatics meets LLM interpretability">
+
 I'm interested in questions where **bioinformatics meets interpretable language models**:
 
 - How do language models encode biological sequences and scientific knowledge?
@@ -100,7 +95,7 @@ I'm interested in questions where **bioinformatics meets interpretable language 
 - How can retrieval over biological literature support traceable, evidence-grounded scientific reasoning?
 - How can we evaluate biological relevance, uncertainty, and faithfulness in model outputs?
 
-These are research directions I want to explore, not claims of completed projects or published results.
+I want to build a deeper understanding of both the data and the models that learn from it.
 
 ---
 
@@ -108,8 +103,8 @@ These are research directions I want to explore, not claims of completed project
 
 **From retrieved knowledge to useful agents — with curiosity about the biology behind the data.**
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Illustrative contribution-grid snake animation from the Platane/snk project; not my contribution history" width="700">
+<code>mahandhgh :: retrieve → reason → build → understand</code>
 
-<sub>Animation example from <a href="https://github.com/Platane/snk">Platane/snk</a>; it does not represent my contribution history. Technology badges served by <a href="https://shields.io">Shields.io</a>.</sub>
+<sub>Custom animations created for this profile · Technology badges by Shields.io</sub>
 
 </div>
