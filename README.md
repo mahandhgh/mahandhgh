@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="assets/mahan-terminal.svg" width="1000" alt="Mahan Dehghani — AI Software Engineer, CS at KNTU; personalized animated terminal">
 
@@ -60,8 +60,7 @@ My stack and the ecosystem I continue to explore — from retrieval experiments 
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
