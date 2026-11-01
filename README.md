@@ -105,6 +105,5 @@ I want to build a deeper understanding of both the data and the models that lear
 
 <code>mahandhgh :: retrieve → reason → build → understand</code>
 
-<sub>Custom animations created for this profile · Technology badges by Shields.io</sub>
 
 </div>
